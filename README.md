@@ -1,4 +1,4 @@
 
-# creative-agency-client
+creative-agency-WEbsite
 
-nothing
+   #Technology: JavaScript, React, Node.js, Express.js, Bootstrap, MongoDB, Firebase  Authentication,     Stripe.js, Heroku.
