@@ -1,17 +1,23 @@
 
-creative-agency-WEbsite
+<h2>creative-agency-WEbsite</h2>
 
 
-Technology: JavaScript, React, Node.js, Express.js, Bootstrap, MongoDB, Firebase  Authentication,     Stripe.js, Heroku.
+<h2>Technology:</h2> JavaScript, React, Node.js, Express.js, Bootstrap, MongoDB, Firebase  Authentication,Stripe.js, Heroku.
 
-About this Website: This is a clint base Service website where a Customer can be order any services and the Admin panal can see this order.
+<h2>About this Website:</h2> This is a clint base Service website where a Customer can be order any services and the Admin panal can see this order.
 
-Software features:
-Acceleration with corner speed prediction
-Printer settings loaded from files
-Controllable via OctoPrint, ethernet, USB or MagnaScreen
-Written in python for extensibility
-Optimized for BeagleBone's secondary processing units
-Extendable plugin architecture
-<h1>hello </h1>
+<h2>Web Application features:</h2>
+<ul> 
+  <li> Product visuals and descriptions</li>
+  <li> Easy navigation</li>
+  <li>Relevant, authoritative website content</li>
+  <li> Contact Information </li>
+  <li> Hamburger menu on mobile site</li>
+    <li> Fully Responsive at any devices</li>
+  <li> Social media as an extension of the business website</li>
+</ul>
+
+<h2>Visit Website:</h2> https://creative-agency365.netlify.app/
+
+
 
