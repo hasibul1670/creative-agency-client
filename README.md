@@ -1,12 +1,12 @@
 
-<h2>creative-agency-WEbsite</h2>
+<h2>Creative-Agency-WebSite</h2>
 
 
 <h2>Technology:</h2> JavaScript, React, Node.js, Express.js, Bootstrap, MongoDB, Firebase  Authentication,Stripe.js, Heroku.
 
 <h2>About this Website:</h2> This is a clint base Service website where a Customer can be order any services and the Admin panal can see this order.
 
-<h2>Web Application features:</h2>
+<h2>Website features:</h2>
 <ul> 
   <li> Product visuals and descriptions</li>
   <li> Easy navigation</li>
